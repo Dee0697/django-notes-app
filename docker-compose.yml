@@ -3,4 +3,4 @@ services :
   web :
      image : deep0697/my_app_image
      ports :
-         - "8000:8000"
+         - "8080:8000"
